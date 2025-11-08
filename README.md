@@ -59,7 +59,7 @@ A modern, lightweight **React Native Video Editor** app that allows users to **r
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/VideoEditorApp.git
+git clone https://github.com/rahulmewada65/VideoEditorApp.git
 
 npm install
 
