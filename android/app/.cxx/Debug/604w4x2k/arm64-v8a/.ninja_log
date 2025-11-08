@@ -1,0 +1,8 @@
+# ninja log v5
+12763	13291	7843007804970511	C:/Users/Rahul Mewada/OneDrive/Desktop/VideoEditorApp/VideoEditorApp/android/app/build/intermediates/cxx/Debug/604w4x2k/obj/arm64-v8a/libappmodules.so	cb1f024f77e47f3b
+1	12763	7843007800154658	CMakeFiles/appmodules.dir/OnLoad.cpp.o	c6b42edb7ac874da
+12	11132	7843007783478858	CMakeFiles/appmodules.dir/2081f80cd8fa850081362ac34a3f38b6/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	2df772bfc34b21b3
+6	39	0	C:/Users/Rahul Mewada/OneDrive/Desktop/VideoEditorApp/VideoEditorApp/android/app/.cxx/Debug/604w4x2k/arm64-v8a/CMakeFiles/cmake.verify_globs	ab74a2d4a9beb8ba
+56	1165	7843046601035898	build.ninja	da65b69cc0c6c81d
+1	28	0	clean	f7ffa95a1b114bdb
+21	272	0	C:/Users/Rahul Mewada/OneDrive/Desktop/VideoEditorApp/VideoEditorApp/android/app/.cxx/Debug/604w4x2k/arm64-v8a/CMakeFiles/cmake.verify_globs	ab74a2d4a9beb8ba

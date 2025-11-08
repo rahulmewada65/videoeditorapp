@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RNVectorIconsSpec_autolinked_build",
+		"source" : "C:/Users/Rahul Mewada/OneDrive/Desktop/VideoEditorApp/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni"
+	}
+}
